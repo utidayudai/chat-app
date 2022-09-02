@@ -57,7 +57,7 @@
   padding: 0 40px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  
 }
 
 .header-title {
@@ -67,6 +67,7 @@
 }
 
 .header-button {
+ margin-top: 40px;
 
 }
 
